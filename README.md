@@ -26,9 +26,9 @@ User credentials and resume data is saved in the MONGODB database.
 *Database:*
 - MongoDB
 
-*AI Integration*
--Gemini flash 3.0 API (for text enhancement)
--Prompt-based NLP processing
+*AI Integration:*
+- Gemini flash 3.0 API (for text enhancement)
+- Prompt-based NLP processing
 
 *Other Tools:*
 - JWT Authentication
