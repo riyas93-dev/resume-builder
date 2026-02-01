@@ -1,6 +1,6 @@
 # 🚀 Resume Builder – Full Stack Web App
 
-A modern, user-friendly resume builder that allows users to create, edit, and download professional resumes with ease.
+A modern, user-friendly resume builder with AI enhance feature that allows users to create, edit, and download professional resumes with ease.
 User credentials and resume data is saved in the MONGODB database.
 
 ---
@@ -25,6 +25,10 @@ User credentials and resume data is saved in the MONGODB database.
 
 *Database:*
 - MongoDB
+
+*AI Integration*
+-Gemini flash 3.0 API (for text enhancement)
+-Prompt-based NLP processing
 
 *Other Tools:*
 - JWT Authentication
